@@ -1,0 +1,5 @@
+com\saurabh\product\dto\product.class
+com\saurabh\productBo\productBO.class
+com\saurabh\product\DAO\productDAO.class
+com\saurabh\product\DAO\productDAOImpl.class
+com\saurabh\productBo\productBOImpl.class
