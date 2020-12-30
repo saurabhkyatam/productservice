@@ -3,6 +3,7 @@ package dealerdetails;
 public class dealer {
 	String name,address;
 	int shopno;
+<<<<<<< HEAD
 	public String getName() {
 		return name;
 	}
@@ -27,5 +28,7 @@ public class dealer {
 		this.address = address;
 		this.shopno = shopno;
 	}
+=======
+>>>>>>> parent of a17079f... create setter getter
 
 }
